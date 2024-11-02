@@ -1,0 +1,336 @@
+#bcontainer2{
+    background-color: black;
+  margin-top:90px;
+  padding-bottom:17px;
+  margin-left:140px;
+ 
+  margin-right:150px;
+padding-left:40px;
+padding-right:50px;
+justify-items: center;
+  height:auto;
+  width:auto;
+  border-radius: 25px; 
+
+
+ 
+}
+#bcontainer1 {
+    display: flex;
+
+}
+#h{
+    color:ivory;
+    text-align: center;
+    size:20px;
+    animation:fadeIn 9s ease forwards;
+    
+}
+@keyframes fadeIn {
+    from{
+    opacity:0;}
+    to{
+        opacity:1;
+    }
+    
+}
+#b1{
+    background-color: black;
+  color:white;
+  background-image:url(currency2.avif);
+  font-size:20px;
+
+}
+#container1{
+    display: flex;
+    padding:50px;
+
+    padding-top:110px;
+ 
+}
+#in1{
+  
+    margin-left: 30px;
+    margin-right: 10px;
+    margin-top:3px;
+    height:40px;
+  
+}
+#in2{
+  
+    margin-left: 30px;
+    margin-right: 10px;
+    margin-top:2px;
+    height:40px;
+
+  
+}
+#ind{
+    margin-top:100px;
+    padding-left:50px;
+}
+#in3{
+  
+    margin-left: 30px;
+    margin-right: 10px;
+    margin-top:2px;
+    height:40px;
+
+  
+}
+#in4{
+    
+     
+        margin-left: 30px;
+        margin-right: 10px;
+        margin-top:2px;
+        height:40px;
+      
+    }
+#submit{
+
+    margin-left: 60px;
+    margin-top: 50px;
+    height:50px;
+    width:100px;
+}
+
+#button{
+    display:flex;
+}
+#reset{
+
+    margin-left: 50px;
+    margin-top: 50px;
+    height:50px;
+    width:100px;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    justify-items: center;
+    
+   
+  }
+ 
+ #fcontainer{
+    width:1000px;
+    margin-left:20px;
+    margin-right:20px;
+    background-image:url(bg2.jpg);
+    color:white;
+    margin-top:130px;
+    display: grid;
+    border:2px solid black;
+ 
+    height:700px;
+    border-radius: 50px;
+    align-items:center;
+    
+
+
+ }
+ .mb-3{
+    padding-top:20px;
+    width:700px;
+    display:flex;
+    padding-left:20px;
+
+    
+ }
+ .error{
+    color:#FF0000;
+    margin-left:10px;
+   
+ }
+.form-control{
+    margin-left:5px;
+
+}
+#buttoncon{
+    display:flex;
+    }
+    .mb-31{
+        padding-top:20px;
+        width:200px;
+        display:flex;
+        padding-left:20px;}
+
+        #fcontainer1{
+            width:1000px;
+            margin-left:20px;
+            margin-right:20px;
+            background-image:url(bg2.jpg);
+            color:white;
+            margin-top:110px;
+            display: grid;
+            border:2px solid black;
+         
+            height:700px;
+            border-radius: 50px;
+            align-items:center;
+            
+        
+        
+         }
+         #alert1{
+
+margin-top:-65px;
+width:700px;
+         }
+         #alert2{
+
+            margin-top:0px;
+            width:700px;
+                     }
+
+     #sd{
+        display :flex;
+        padding-left:70px;
+     }  
+        #button5,#button6{
+            margin-left:40px;
+            margin-top:40px;
+            border:2px solid silver;
+        }
+        #button51,#button61{
+            margin-left:40px;
+            margin-top:40px;
+            border:2px solid silver;
+        }
+        #nav {
+            width: 100vw; 
+            height:6vw;
+            max-width: 100%;
+            color:white;
+            padding: 0;
+            font-size:20px;
+            margin-bottom:50px;
+          
+          }
+         .nav-item{
+            margin:40px;
+            color:white;
+         }
+         .nav-link1{
+            margin:60px;
+         }
+         #ab{
+            background-color:black;
+            height:600px;
+            width:1100px;
+            color: white;
+            border-radius: 15px 50px; 
+       
+          
+         }
+        
+         .fa-brands.fa-telegram.fa-4x{
+            color:white;
+            padding-right:100px;
+          
+            
+         }
+         .fa-brands.fa-facebook.fa-4x{
+            color:white;
+            padding-right:100px;
+         }
+         .fa-brands.fa-twitter.fa-4x{
+            color:white;
+            padding-right:100px;
+
+         }
+         .fa-brands.fa-youtube-square.fa-4x{
+            color:white;
+            padding-right:100px;
+
+         }
+         #cs{
+            background-color:black;
+            height:300px;
+            width:100vw;
+            color: white;
+            margin-top:60px;
+            padding-top:20px;
+          
+         
+          
+
+         }
+        #di{
+            justify-items: center;
+            margin-top:60px;
+        }
+        #b2{
+            background-image:url(currencybg.jpg);
+
+
+width: 100vw;
+
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+background-size: 100% 100%;
+
+
+        }
+        #hs{
+            padding-top:60px;
+            padding-bottom:80px;
+            align-items:center;
+        }
+        #h1{
+            color:white;
+            text-align: center;
+            size:60px;
+           
+            font-family: "Sofia", sans-serif;
+            
+        }
+        #h2{
+            color:silver;
+            text-align: center;
+            size:60px;
+            animation:fadeIn 30s ease forwards;
+            font-family: "Sofia", sans-serif;
+            
+        }
+        #h3{
+            color:white;
+            text-align: center;
+            size:120px;
+            animation:fadeIn 60s ease forwards;
+            font-family: "Sofia", sans-serif;
+            
+        }
+        #h4{
+            color:white;
+            text-align: center;
+            size:120px;
+            animation:fadeIn 90s ease forwards;
+            
+        }
+        #h5{
+            color:white;
+            text-align: center;
+            
+            animation:fadeIn 120s ease forwards;
+            
+        }
+        #h6{
+            color:white;
+            text-align: center;
+        
+            animation:fadeIn 150s ease forwards;
+            
+        }
+        #h7{
+            color:white;
+            text-align: center;
+           
+            animation:fadeIn 180s ease forwards;
+            
+        }
+       
+    
